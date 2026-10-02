@@ -21,3 +21,19 @@ orcid = "https://orcid.org/0000-0001-5982-167X"
 name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
 internal_id = "RubinObs"
 address = "Tucson"
+[[technote.authors]]
+name = {given = "Matthias", family = "Wittgen"}
+internal_id = "wittgenm"
+orcid = "https://orcid.org/0000-0002-4063-883X"
+[[technote.authors.affiliations]]
+name = "SLAC National Accelerator Laboratory"
+internal_id = "SLAC"
+ror = "https://ror.org/05gzmn429"
+[[technote.authors]]
+name = {given = "Ross", family = "Ceballo"}
+internal_id = "ceballor"
+orcid = "https://orcid.org/0009-0000-9679-3911"
+[[technote.authors.affiliations]]
+name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
+internal_id = "RubinObs"
+ror = "https://ror.org/048g3cy84"
